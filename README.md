@@ -21,10 +21,7 @@ I'm a Data Science student with a passion for data, coding, and all things tech!
 ### 💼 Business Interests:
 - Developing applications in the field of data, especially for the **Indonesian market**.
 - Keen on expanding my knowledge in **Digital Marketing** and **Search Engine Optimization (SEO)**.
-
-### 💻 Currently Working On:
-- A **machine learning project** for **fraud detection**, utilizing **logistic regression**, **decision trees**, and **neural networks**.
-  
+- 
 ### 🌍 Let's Connect:
 - [LinkedIn](www.linkedin.com/in/asyzyni)
 - [X](https://x.com/AIzayani) 
